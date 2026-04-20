@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "iplon_modbus": "file:../../home/Node-Red_Modbus/iPLON_Modbus"
+  }
+}
